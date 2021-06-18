@@ -3,8 +3,10 @@
   
 **팀 Vineyard**  
 
+[소개 영상](https://www.youtube.com/watch?v=fWffo5ZpFlI) <br>
 [Android app](https://play.google.com/store/apps/details?id=com.aircom.root)  
-[Homepage](https://myaircom.co.kr)
+~~[Homepage](https://myaircom.co.kr)~~
+
 
 ## 프로젝트 설명
 PC를 테블릿이나 모바일 폰에서 사용할 수 있도록 PC방의 유휴자원을 제공해주는 원격 PC 서비스  
